@@ -6,17 +6,20 @@ import json
 
 
 
-USERNAME = 'YOUR_USERNAME'
+USERNAME = '100036741151589'
 PASSWORD = 'YOUR_PASSWORD'
-GROUP_NAME = 'GROUP_NAME'
+GROUP_NAME = 'PUBG LITE INDO'
 # visit mbasic.facebook.com, go to your group, copy numbers after /groups/GROUP_ID?not_important_things
-GROUP_ID = 'GROUP_ID'
+GROUP_ID = 'PUBG.LITE.INDO'
 # if post contains one of this words, it will be accepted
 # use many dicts for multiple word "forms"
 PHRASES = [
-    ['dog', 'doggo', 'doggy'],
-    ['cat', 'catty', 'kitty'],
-    ['bla', 'blah', 'blahh'],
+    ['mabar', 'maen bareng', 'main bareng'],
+    ['tolong', 'help', 'bantu'],
+    ['tanya', 'ask', 'nanya'],
+    ['windows', 'pc', 'nanya'],
+    ['friendly fire', 'ff', 'cheat'],
+    ['error', 'processor', 'prosesor'],
 ]
 
 
